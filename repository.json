@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-personal-vault",
+  "description": "Personal Vault product architecture and future single-user Privacy Pump components.",
+  "maturity": "Early-stage product placeholder",
+  "network": "Planned for local development and devnet",
+  "topics": ["privacy-pump", "solana", "privacy", "personal-vault", "defi"],
+  "visibility": "public-after-verification"
+}
